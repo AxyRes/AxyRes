@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is scoure code python by me learning form HowKteam
 <!--
 **AxyRes/AxyRes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
