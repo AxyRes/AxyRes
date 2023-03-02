@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on DXC Technology as DevOps position
+- 🌱 I’m currently learning Java Web Application
+- 🤔 I’m looking for help with Front-End Developer
+- 📫 How to reach me: nhattien.lam@gmail.com
+- 💬 As DevOps I know: Jenkins, Artifactory(Jfrog,Nexus,Harbor), Linux, Window, Bash Shell, Docker, AWS, Database(Mssql,oracledb),Web Server(Tomcat,Jboss Widly, Weblogic, WebSphere), Apache Web Server Proxy,...
+- 💬 Now I want to make project java web by my self and need Front-End Dev to code my page, I just know code the Back-End
+
+⚡⚡⚡⚡ Thank you ⚡⚡⚡⚡
 <!--
 **AxyRes/AxyRes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
