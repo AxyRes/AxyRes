@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java Web Application and C# ASP NET Core
 - 🤔 I’m looking for help with Front-End Developer
 - 📫 How to reach me: nhattien.lam@gmail.com
-- 💬 As DevOps I know: Jenkins, Artifactory(Jfrog,Nexus,Harbor), Linux, Window, Bash Shell, Docker, AWS, Database(Mssql,oracledb),Web Server(Tomcat,Jboss Widly, Weblogic, WebSphere), Apache Web Server Proxy,...
+- 💬 As DevOps I know: Jenkins, Artifactory(Jfrog,Nexus,Harbor), Linux, Window, Bash Shell, Docker, AWS, Database(Mssql,oracledb),Web Server(Tomcat,Jboss Widly, Weblogic, WebSphere), Apache Web - Nginx Server Proxy,...
 - 💬 Now I want to make project java web by my self and need Front-End Dev to code my page, I just know code the Back-End
 
 ⚡⚡⚡⚡ Thank you ⚡⚡⚡⚡
