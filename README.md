@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on DXC Technology as DevOps position
-- 🌱 I’m currently learning Java Web Application and C# ASP NET Core
+- 🌱 I’m currently learning Java Web Application and C# ASP NET Core and DevOps skill
 - 🤔 I’m looking for help with Front-End Developer
 - 📫 How to reach me: nhattien.lam@gmail.com
 - 💬 As DevOps I know: Jenkins, Artifactory(Jfrog,Nexus,Harbor), Linux, Window, Bash Shell, Docker, AWS, Database(Mssql,oracledb),Web Server(Tomcat,Jboss Widly, Weblogic, WebSphere), Apache Web - Nginx Server Proxy,...
