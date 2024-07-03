@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently in a DevOps role
-- 🌱 I’m currently learning and researching more about DevOps skills to become a DevSecOps
+- 🔭 I’m currently in a DevSecOps role at Sacombank
+- 🌱 I’m currently learning and researching more about DevSecOps skills to become a best DevSecOps
 - 📫 How to reach me: nhattien.lam@gmail.com
-- 💬 As DevOps I know: Jenkins, Artifactory(Jfrog, Nexus, Harbor), Linux, Windows, Bash Shell, Docker, AWS, Database(Mssql, Oracledb), Web Server(Tomcat, Jboss-Widly, Weblogic, WebSphere), Apache Web - Nginx Server Proxy, Kubernetes, Terraform, AWS, ...
+- 💬 As DevSecOps I know: Jenkins, Artifactory(Jfrog, Nexus, Harbor), Linux, Windows, Bash Shell, Docker, AWS, Database(Mssql, Oracledb), Web Server(Tomcat, Jboss-Widly, Weblogic, WebSphere), Apache Web - Nginx Server Proxy, Kubernetes, Terraform, AWS, Coverity, BlackDuck, Sonaqube, AquaSec, Zaproxy, Openshift, Ansible ...
 
 ⚡⚡⚡⚡ Thank you ⚡⚡⚡⚡
 <!--
