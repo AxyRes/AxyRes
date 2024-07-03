@@ -23,7 +23,7 @@
   - AquaSec
   - Zaproxy
 
-You can check out my personal blog [here](https://trainingdevsecops.com/).
+You can check out [my personal blog](https://trainingdevsecops.com/).
 
 ⚡⚡⚡⚡ Thank you ⚡⚡⚡⚡
 <!--
